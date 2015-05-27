@@ -2428,7 +2428,7 @@
 			display: inline-block;
 			padding-right: 2.5em;
 			vertical-align: middle;
-			width: 48%;
+			width: 28%;
 		}
 
 			.features article .image img {
@@ -2439,7 +2439,7 @@
 		.features article .inner {
 			display: inline-block;
 			vertical-align: middle;
-			width: 50%;
+			width: 70%;
 		}
 
 			.features article .inner > :last-child {
